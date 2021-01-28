@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Juan Santiago Moreno CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Juan G. Santiago Moreno
+MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,32 +13,33 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Third Year MD-PhD Student at the University of Colorado Anschutz Medical Campus
+PhD Student in the Lab of Daniel J. Denman, PhD
 
-### Specialized in
+### Research Interests
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Visual processing of color information, Neuropixels, and neural population dynamics
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020 - Present`
+__University of Colorado Anschutz Medical Campus__
+- Aurora, CO
+- Neuroscience Graduate Program
+- Degree: PhD
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2018 - Present`
+__University of Colorado Anschutz Medical Campus__
+- Aurora, CO
+- School of Medicine
+- Degree: MD
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2016 - 2018`
+__University of Florida__
+- Gainesville, FL
+- MS in Medical Science
+- Thesis Advisor: Gordon S. Mitchell, PhD
 
 
 
