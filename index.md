@@ -42,30 +42,84 @@ __University of Florida__
 - MS in Medical Science
 - Thesis Advisor: Gordon S. Mitchell, PhD
 
+`2013 - 2016`
+__University of Florida__
+- Gainesville, FL
+- BS in Behavioral and Cognitive Neuroscience
+- Minor: Spanish
 
 
-## Awards
+## Grants and Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+**Research Diversity Supplement**, National Eye Insitiute
 
-Associate, *French Academy of Science*, Paris, France
+`2018-2020`
+**T32 Training Grant**, National Institutes of Health
 
+`2019`
+**First Place - Ethics Case Competition**, University of Colorado Anschutz
 
+`2018`
+**First Place - Ethics Case Competition**, University of Colorado Anschutz
+
+`2017`
+**Minority Travel Fellowship**, American Physiological Society
+
+**Graduate Student Travel Grant**, McKnight Brain Institute, University of Florida
+
+**Volunteer Regcognition Award**, Mobile Outreach Clinic, University of Florida
+
+`2013`
+**Florida Academic Scholars**, Florida Bright Futures Program
+
+## Research Experience
+
+`2019`
+__MSTP Summer Research Rotation__
+- Department of Neurosurgery
+- University of Colorado Anschutz
+- PI: Cristin G. Welle, PhD
+
+`2016-2018`
+__Graduate Assistant__
+- Center for Respiratory Research and Rhabilitation
+- University of Florida
+- PI: Gordon S. Mitchell, PhD
+
+`2015-2016`
+__Undergraduate Researcher__
+- Center for Respiratory Research and Rhabilitation
+- University of Florida
+- PI: Gordon S. Mitchell, PhD
+- Mentor: Irawan Satriotomo, MD-PhD
+
+`2014-2015`
+__Undergraduate Researcher__
+- Center for Translational Research in Neurodegenerative Diseases
+- University of Florida
+- PI: Sylvain Dore, PhD
+- Mentor: Jenna Leclerc, MD-PhD
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en) -->
+## Presentations
+### Posters
+### Oral Presentations
 
-### Journals
+## Employment History
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Skills
+### Analytical
 
-`1669`
-Lectiones opticæ.
+### Technical
 
-etc. etc. etc.
+### Software
+
+## Selected Activities
+
+## Conferences Attended
 
 
 
