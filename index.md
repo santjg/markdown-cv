@@ -18,7 +18,7 @@ PhD Student in the Lab of Daniel J. Denman, PhD
 
 ### Research Interests
 
-Visual processing of color information, Neuropixels, and neural population dynamics
+Visual processing of color information, Neuropixels, and neural population dynamics///
 
 
 ## Education
