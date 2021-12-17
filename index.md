@@ -6,20 +6,21 @@ title: Juan Santiago Moreno CV
 MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="juan.santiagomoreno@cuanschutz.edu">juan.santiagomoreno@cuanschutz.edu</a>
+| <a href="denmanlab.github.io">Denman Lab Webpage</a>
 </div>
 
 
 ## Currently
 
-Third Year MD-PhD Student at the University of Colorado Anschutz Medical Campus
+Fourth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus
 PhD Student in the Lab of Daniel J. Denman, PhD
 
 ### Research Interests
 
-Visual processing of color information, Neuropixels, and neural population dynamics///
-
+* Visual processing of color and form
+* Population Dynamics
+* Neuropixels
 
 ## Education
 
@@ -65,23 +66,6 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 Lectiones opticæ.
 
 etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
