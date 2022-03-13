@@ -23,6 +23,7 @@ My thesis project is centered around investigating the mechanisms that underlie 
 
 ## Education
 
+
 `2020 - `
 __University of Colorado Anschutz Medical Campus__
 - Aurora, CO
@@ -43,6 +44,7 @@ __University of Florida__
 
 ## Positions and Scientific Appointments
 
+
 `2020 - `
 Graduate Student, **Daniel J. Denman Lab, University of Colorado Medical Scientist Training Program**, Aurora, CO
 
@@ -59,6 +61,7 @@ Undergraduate Researcher, **Gordon S. Mitchell Lab, University of Florida**, Gai
 Undergraduate Researcher, **Sylvain Dore Lab, University of Florida**, Gainesville, FL
 
 ## Awards
+
 
 `2020 - 2022`
 Research Diversity Supplement, National Eye Institute
@@ -137,6 +140,7 @@ Volunteer; UF Health Movement Disorders Clinic
 
 ## Publications
 
+
 <!-- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en) -->
 
 - Tekriwal, A., Afshar, N. M., **Santiago-Moreno, J.**, Kuijper, F. M., Kern, D. S., Halpern, C. H., ... & Thompson, J. A. (2019). Neural circuit and clinical insights from intraoperative recordings during deep brain stimulation surgery. Brain sciences, 9(7), 173.
@@ -144,6 +148,8 @@ Volunteer; UF Health Movement Disorders Clinic
 - Leclerc JL, **Santiago-Moreno, J.**, Dang, A., Lampert, A.S., Cruz P.E., Rosario A.M., Golde T.E., Doré S. Increased brain hemopexin levels improve outcomes after intracerebral hemorrhage. J Cereb Blood Flow Metab. 2018 Jun;38(6):1032-1046. PubMed Central PMCID: PMC5999006. 
 
 ## Abstracts
+
+
 - **Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the 3rd Annual CU MSTP Program Retreat, Aurora, CO, February 2022
 -	**Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the Neuroscience Graduate Program Retreat, Granby, CO, October 2021
 - Leclerc, J., Lampert, A.S., Phillips, H., Esfandiary, T., Dang, A., **Santiago-Moreno, J.**, Dore, S. Haptoglobin is Present as Zonulin in the Brain and Overexpression Improves Intracerebral Hemorrhage Outcomes. Poster presented at International Stroke Conference, Honolulu, HI, February 2019
@@ -161,6 +167,7 @@ Volunteer; UF Health Movement Disorders Clinic
 -	Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, & Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
 
 ## Oral Presentations
+
 
 -	Comprehensive Exam: “Color Information Processing via Communication Subspaces”, March 2021
 -	CU MSTP 2nd Annual program Retreat: “Interlaminar Dynamics of Color Representation in V1”, February 2021
