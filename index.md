@@ -84,13 +84,80 @@ Travel Grant, UF Graduate Student Council
 `2013-2016`
 Academic Scholar, Florida Bright Futures
 
+## Other Relevant Experience and Professional Memberships
+`2021 - `
+Physician Scientist Track Lead; CU Summer Research Training Program
+
+`2020 - `
+Member; Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS), CUSOM Chapter
+
+`2020 - `
+Chair; Inclusion, Diversity, and Equity in Admissions Committee, CU MSTP Student Council
+
+`2020 - `
+Class Representative; University of Colorado MSTP Student Council
+
+`2019 - `
+Volunteer Project Mentor; Bryant-Webster Dual-Language School Science Mentoring Program
+
+`2018 - `
+Student Member; American Medical Association
+
+`2021`
+Conference Organizer; 36th National MD-PhD Student Conference
+
+`2021`
+Organizer; CU MSTP 2nd Annual Program Retreat
+
+`2019 - 2020`
+Instructor; Spanish Acquisition Begets Enhanced Service, CU School of Medicine
+
+`2019 - 2020`
+President; Latino Medical Student Association (LMSA), CUSOM Chapter
+
+`2018 - 2019`
+Vice President; Latino Medical Student Association (LMSA), CUSOM Chapter
+
+`2017 - 2018`
+Student Member; American Physiological Society
+
+`2016 - 2018`
+Member; Biomedical Sciences Graduate Program Diversity Committee
+
+`2015 - 2017`
+Care Coordinator; University of Florida Mobile Outreach Clinic
+
+`2017`
+Volunteer; UF Health Movement Disorders Clinic
 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en) -->
 
-### Journals
+- Tekriwal, A., Afshar, N. M., **Santiago-Moreno, J.**, Kuijper, F. M., Kern, D. S., Halpern, C. H., ... & Thompson, J. A. (2019). Neural circuit and clinical insights from intraoperative recordings during deep brain stimulation surgery. Brain sciences, 9(7), 173.
+- Rastogi Vaibhav, **Santiago-Moreno, J.**, Dore S. Ginseng: a promising neuroprotective strategy in stroke. Frontiers in Cellular Neuroscience. 2015; 8:457.
+- Leclerc JL, **Santiago-Moreno, J.**, Dang, A., Lampert, A.S., Cruz P.E., Rosario A.M., Golde T.E., Doré S. Increased brain hemopexin levels improve outcomes after intracerebral hemorrhage. J Cereb Blood Flow Metab. 2018 Jun;38(6):1032-1046. PubMed Central PMCID: PMC5999006. 
 
+## Abstracts
+- **Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the 3rd Annual CU MSTP Program Retreat, Aurora, CO, February 2022
+-	**Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the Neuroscience Graduate Program Retreat, Granby, CO, October 2021
+-	**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B.J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G.S. Repetitive acute intermittent hypoxia affects lesion volume after cervical spinal injury. Poster presented at Respiratory Section Mixer, Experimental Biology, Chicago, IL, April 2017
+-	**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B.J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G.S. Repetitive acute intermittent hypoxia affects lesion volume after cervical spinal injury. Poster presented at Neuromuscular Plasticity Symposium, Gainesville, FL, February 2017
+-	**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B.J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G.S. Repetitive acute intermittent hypoxia alters lesion volume after cervical spinal injury. Poster presented at University of Florida Undergraduate Research Symposium, Gainesville, FL, March 2016
+-	Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Lampert, A., Doré, S. Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves Intracerebral Hemorrhage Outcomes. Poster presented at UF Department of Anesthesiology Celebration of Research, Gainesville, FL, May 2016
+-	Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at UF College of Medicine Celebration of Research, Gainesville, FL, May 2015
+-	Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Doré, S. (2015, February) Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presentation at UF College of Medicine Celebration of Research, Gainesville, FL, February 2015
+
+
+## Presentations
+
+-	Comprehensive Exam: “Color Information Processing via Communication Subspaces”, March 2021
+-	CU MSTP 2nd Annual program Retreat: “Interlaminar Dynamics of Color Representation in V1”, February 2021
+-	MSTP Seminar Series: “Wavelength Specific Representation of Stimuli in the Mouse Visual Cortex”, September 2020
+-	MSTP Seminar Series: “Motor Learning Enhancement by Vagus Nerve Stimulation is Mediated by Cholinergic Basal Forebrain Neurons”, August 2019
+-	Thesis Defense: “Effects of repetitive acute intermittent hypoxia on lesion volume following cervical spinal cord injury”, March 2018
+-	Respiratory Section Mixer, Experimental Biology: “Six months of repetitive acute intermittent hypoxia drives serotonergic axon growth through a spinal injury”, April 2017
+-	UF Department of Anesthesiology Celebration of Research: “Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves Intracerebral Hemorrhage Outcomes”, May 2016
 
 
 
