@@ -6,8 +6,8 @@ title: Juan Santiago Moreno CV
 MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="juan.santiagomoreno@cuanschutz.edu">juan.santiagomoreno@cuanschutz.edu</a>
+| <a href="https://denmanlab.github.io">Denman Lab Webpage</a>
 </div>
 
 
@@ -18,18 +18,18 @@ PhD Student in the Lab of Daniel J. Denman, PhD
 
 ### Research Interests
 
-Visual processing of color information, Neuropixels, and neural population dynamics
+My thesis project is centered around investigating the mechanisms that underlie the integration of color and form in the early visual system at the level of circuits and populations using Neuropixels probes
 
 
 ## Education
 
-`2020 - Present`
+`2020 - `
 __University of Colorado Anschutz Medical Campus__
 - Aurora, CO
 - Neuroscience Graduate Program
 - Degree: PhD
 
-`2018 - Present`
+`2018 - `
 __University of Colorado Anschutz Medical Campus__
 - Aurora, CO
 - School of Medicine
@@ -41,47 +41,58 @@ __University of Florida__
 - MS in Medical Science
 - Thesis Advisor: Gordon S. Mitchell, PhD
 
+## Positions and Scientific Appointments
 
+`2020 - `
+Graduate Student, **Daniel J. Denman Lab, University of Colorado Medical Scientist Training Program**, Aurora, CO
+
+`2018 - `
+Medical Student, **University of Colorado School of Medicine, Medical Scientist Training Program**, Aurora, CO
+
+`2016 - 2018`
+Master's Student, **Gordon S. Mitchell Lab, University of Florida College of Medicine**, Gainesville, FL
+
+`2015 - 2016`
+Undergraduate Researcher, **Gordon S. Mitchell Lab, University of Florida**, Gainesville, FL
+
+`2014 - 2015`
+Undergraduate Researcher, **Sylvain Dore Lab, University of Florida**, Gainesville, FL
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020 - 2022`
+Research Diversity Supplement, National Eye Institute
 
-Associate, *French Academy of Science*, Paris, France
+`2018 - 2020`
+Trainee, NIH Institutional T32 MSTP Grant GM008497
 
+`2019`
+First Place, Ethics Case Competition, University of Colorado
+
+`2018`
+First Place, Ethics Case Competition, University of Colorado
+
+`2017`
+Volunteer Recognition Award, UF Mobile Outreach Clinic
+
+`2017`
+Minority Travel Fellowship, American Physiological Society
+
+`2017`
+Travel Grant, UF Graduate Student Council
+
+`2013-2016`
+Academic Scholar, Florida Bright Futures
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en) -->
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
