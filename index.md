@@ -24,23 +24,22 @@ My thesis project is centered around investigating the mechanisms that underlie 
 ## Education
 
 
+__University of Colorado Anschutz Medical Campus__, Aurora, CO
 `2020 - `
-__University of Colorado Anschutz Medical Campus__
-- Aurora, CO
-- Neuroscience Graduate Program
-- Degree: PhD
+- PhD Student, Neuroscience Graduate Program
 
 `2018 - `
-__University of Colorado Anschutz Medical Campus__
-- Aurora, CO
-- School of Medicine
-- Degree: MD
+- Medical Student, Medical Scientist Training Program
 
+
+__University of Florida__, Gainesville, FL
 `2016 - 2018`
-__University of Florida__
-- Gainesville, FL
-- MS in Medical Science
+- Master of Science, Medical Sciences, College of Medicine
 - Thesis Advisor: Gordon S. Mitchell, PhD
+
+`2013 - 2016`
+- Bachelor of Science, Behavioral and Cognitive Neurosciences
+- Minor in Spanish
 
 ## Positions and Scientific Appointments
 
