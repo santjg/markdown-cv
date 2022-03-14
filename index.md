@@ -127,14 +127,28 @@ Care Coordinator; University of Florida Mobile Outreach Clinic
 Volunteer; UF Health Movement Disorders Clinic
 
 ## Skills
-### Analytical
 ### Technical
+|Cryostat-microtome sectioning|Neuropixels Recordings|Spinal Cord Injury Lesion Model|
+|Immunohistochemistry|Perfusion and Tissue Collection|Stereotaxic Surgery|
+|Mouse/rat handling and behavior|Perioperative Animal Care||
 ### Software
+|Adobe Illustrator|ImageJ/Fiji|Neurodata Without Borders (NWB)|
+|Adobe Photoshop|Kilosort|Python|
+|Affinity Illustrator|Markdown|SpikeGLX|
+|GitHub|MATLAB||
+### Commonly Used Python Libraries
+|Matplotlib|PsychoPy||
+|Numpy|PyNWB|SciPy|
+|Pandas|Seaborn||
+### Languages
+English (Primary Language)  
+Spanish (First Language, Fluent)  
 
 ## Publications
 
 
-<!-- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en) -->
+A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en)
+
 `2019`
 Tekriwal, A., Afshar, N. M., **Santiago-Moreno, J.**, Kuijper, F. M., Kern, D. S., Halpern, C. H., ... & Thompson, J. A. (2019). Neural circuit and clinical insights from intraoperative recordings during deep brain stimulation surgery. Brain sciences, 9(7), 173.
 
@@ -210,8 +224,8 @@ UF Department of Anesthesiology Celebration of Research: “Modulation of Neuroi
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2022
 
 
