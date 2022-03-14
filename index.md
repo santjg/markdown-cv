@@ -128,26 +128,26 @@ Volunteer; UF Health Movement Disorders Clinic
 
 ## Skills
 ### Technical
-| | | |
-|-----------------------------|----------------------|-------------------------------|
-|Cryostat-microtome sectioning|Neuropixels Recordings|Spinal Cord Injury Lesion Model|
-|Immunohistochemistry|Perfusion and Tissue Collection|Stereotaxic Surgery|
-|Mouse/rat handling and behavior|Perioperative Animal Care||
+| | | |   
+|-----------------------------|----------------------|-------------------------------|  
+|Cryostat-microtome sectioning|Neuropixels Recordings|Spinal Cord Injury Lesion Model|  
+|Immunohistochemistry|Perfusion and Tissue Collection|Stereotaxic Surgery|  
+|Mouse/rat handling and behavior|Perioperative Animal Care||  
 ### Software
-| | | |
-|-----------------|-----------|-------------------------------|
-|Adobe Illustrator|ImageJ/Fiji|Neurodata Without Borders (NWB)|
-|Adobe Photoshop|Kilosort|Python|
-|Affinity Illustrator|Markdown|SpikeGLX|
-|GitHub|MATLAB||
+| | | |  
+|-----------------|-----------|-------------------------------|  
+|Adobe Illustrator|ImageJ/Fiji|Neurodata Without Borders (NWB)|  
+|Adobe Photoshop|Kilosort|Python|  
+|Affinity Illustrator|Markdown|SpikeGLX|  
+|GitHub|MATLAB||  
 ### Frequently Used 
 ### Python Libraries
-| | | |
-|----------|--------|-----|
-|Matplotlib|PsychoPy|SciPy|
-|Numpy|PyNWB||
-|Pandas|Seaborn||
-### Languages
+| | | |  
+|----------|--------|-----|  
+|Matplotlib|PsychoPy|SciPy|  
+|Numpy|PyNWB||  
+|Pandas|Seaborn||  
+### Languages 
 English (Primary Language)  
 Spanish (First Language, Fluent)  
 
