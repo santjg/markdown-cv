@@ -136,75 +136,75 @@ Volunteer; UF Health Movement Disorders Clinic
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en) -->
 `2019`
-- Tekriwal, A., Afshar, N. M., **Santiago-Moreno, J.**, Kuijper, F. M., Kern, D. S., Halpern, C. H., ... & Thompson, J. A. (2019). Neural circuit and clinical insights from intraoperative recordings during deep brain stimulation surgery. Brain sciences, 9(7), 173.
+Tekriwal, A., Afshar, N. M., **Santiago-Moreno, J.**, Kuijper, F. M., Kern, D. S., Halpern, C. H., ... & Thompson, J. A. (2019). Neural circuit and clinical insights from intraoperative recordings during deep brain stimulation surgery. Brain sciences, 9(7), 173.
 
 `2018`
-- Leclerc JL, **Santiago-Moreno, J.**, Dang, A., Lampert, A.S., Cruz P.E., Rosario A.M., Golde T.E., Doré S. Increased brain hemopexin levels improve outcomes after intracerebral hemorrhage. J Cereb Blood Flow Metab. 2018 Jun;38(6):1032-1046. PubMed Central PMCID: PMC5999006. 
+Leclerc JL, **Santiago-Moreno, J.**, Dang, A., Lampert, A.S., Cruz P.E., Rosario A.M., Golde T.E., Doré S. Increased brain hemopexin levels improve outcomes after intracerebral hemorrhage. J Cereb Blood Flow Metab. 2018 Jun;38(6):1032-1046. PubMed Central PMCID: PMC5999006. 
 
 `2015`
-- Rastogi Vaibhav, **Santiago-Moreno, J.**, Dore S. Ginseng: a promising neuroprotective strategy in stroke. Frontiers in Cellular Neuroscience. 2015; 8:457.
+Rastogi Vaibhav, **Santiago-Moreno, J.**, Dore S. Ginseng: a promising neuroprotective strategy in stroke. Frontiers in Cellular Neuroscience. 2015; 8:457.
 
 
 ## Abstracts
 
 `2022`
-- **Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the 3rd Annual CU MSTP Program Retreat, Aurora, CO, February 2022
+**Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the 3rd Annual CU MSTP Program Retreat, Aurora, CO, February 2022
 
 `2021`
--	**Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the Neuroscience Graduate Program Retreat, Granby, CO, October 2021
+**Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the Neuroscience Graduate Program Retreat, Granby, CO, October 2021
 
 `2019`
-- Leclerc, J., Lampert, A.S., Phillips, H., Esfandiary, T., Dang, A., **Santiago-Moreno, J.**, Dore, S. Haptoglobin is Present as Zonulin in the Brain and Overexpression Improves Intracerebral Hemorrhage Outcomes. Poster presented at International Stroke Conference, Honolulu, HI, February 2019
+Leclerc, J., Lampert, A.S., Phillips, H., Esfandiary, T., Dang, A., **Santiago-Moreno, J.**, Dore, S. Haptoglobin is Present as Zonulin in the Brain and Overexpression Improves Intracerebral Hemorrhage Outcomes. Poster presented at International Stroke Conference, Honolulu, HI, February 2019
 
 `2018`
-- Gonzalez-Rothi, E.J., Allen, L.A., **Santiago-Moreno, J.**, Ciesla, M.C., Asa, Z.A., Smith, K.N., Tadjalli, A., Perim, R., Santiago, J.V., Holland, A.E., Stefan, K.A. Long-term Delivery of “Low Dose” Repetitive Intermittent Hypoxia is Not Associated with Detectable Pathology. Presented at Experimental Biology, San Diego, CA, April 2018
+Gonzalez-Rothi, E.J., Allen, L.A., **Santiago-Moreno, J.**, Ciesla, M.C., Asa, Z.A., Smith, K.N., Tadjalli, A., Perim, R., Santiago, J.V., Holland, A.E., Stefan, K.A. Long-term Delivery of “Low Dose” Repetitive Intermittent Hypoxia is Not Associated with Detectable Pathology. Presented at Experimental Biology, San Diego, CA, April 2018
 
 `2017`
-- Tadjalli, A., Perim, R., Satriotomo, I., **Santiago-Moreno, J.**, Seven, Mitchell, Y., G.S. Poster presented at Respiratory Section Mixer, Experimental Biology, Chicago, IL, April 2017
+Tadjalli, A., Perim, R., Satriotomo, I., **Santiago-Moreno, J.**, Seven, Mitchell, Y., G.S. Poster presented at Respiratory Section Mixer, Experimental Biology, Chicago, IL, April 2017  
 
--	**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B.J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G.S. Repetitive acute intermittent hypoxia affects lesion volume after cervical spinal injury. Poster presented at Respiratory Section Mixer, Experimental Biology, Chicago, IL, April 2017
+**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B.J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G.S. Repetitive acute intermittent hypoxia affects lesion volume after cervical spinal injury. Poster presented at Respiratory Section Mixer, Experimental Biology, Chicago, IL, April 2017  
 
--	**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B.J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G.S. Repetitive acute intermittent hypoxia affects lesion volume after cervical spinal injury. Poster presented at Neuromuscular Plasticity Symposium, Gainesville, FL, February 2017
+**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B.J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G.S. Repetitive acute intermittent hypoxia affects lesion volume after cervical spinal injury. Poster presented at Neuromuscular Plasticity Symposium, Gainesville, FL, February 2017  
 
 `2016`
--	Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Lampert, A., Doré, S. Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves Intracerebral Hemorrhage Outcomes. Poster presented at UF Department of Anesthesiology Celebration of Research, Gainesville, FL, May 2016
+Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Lampert, A., Doré, S. Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves Intracerebral Hemorrhage Outcomes. Poster presented at UF Department of Anesthesiology Celebration of Research, Gainesville, FL, May 2016
 
--	**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B.J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G.S. Repetitive acute intermittent hypoxia alters lesion volume after cervical spinal injury. Poster presented at University of Florida Undergraduate Research Symposium, Gainesville, FL, March 2016
+**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B.J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G.S. Repetitive acute intermittent hypoxia alters lesion volume after cervical spinal injury. Poster presented at University of Florida Undergraduate Research Symposium, Gainesville, FL, March 2016
 
--	Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Dore, S. Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves ICH Outcomes. Poster presented at International Stroke Conference, Los Angeles, CA, February 2016
+Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Dore, S. Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves ICH Outcomes. Poster presented at International Stroke Conference, Los Angeles, CA, February 2016
 
--	Leclerc, J., **Santiago-Moreno, J.**, Dang, A., Dore, S. Specific and Local Overexpression of Hemopexin Improves Anatomical and Functional Outcomes in the Autologous Blood Intracerebral Hemorrhage Model. Poster presented at International Stroke Conference, Los Angeles, CA, February 2016
+Leclerc, J., **Santiago-Moreno, J.**, Dang, A., Dore, S. Specific and Local Overexpression of Hemopexin Improves Anatomical and Functional Outcomes in the Autologous Blood Intracerebral Hemorrhage Model. Poster presented at International Stroke Conference, Los Angeles, CA, February 2016
 
 `2015`
--	Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at UF College of Medicine Celebration of Research, Gainesville, FL, May 2015
+Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at UF College of Medicine Celebration of Research, Gainesville, FL, May 2015
 
--	Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Doré, S. (2015, February) Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presentation at UF College of Medicine Celebration of Research, Gainesville, FL, February 2015
+Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Doré, S. (2015, February) Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presentation at UF College of Medicine Celebration of Research, Gainesville, FL, February 2015
 
--	Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
+Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
 
--	Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, & Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
+Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, & Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
 
 ## Oral Presentations
 
 `2021`
--	Comprehensive Exam: “Color Information Processing via Communication Subspaces”, March 2021
+Comprehensive Exam: “Color Information Processing via Communication Subspaces”, March 2021
 
--	CU MSTP 2nd Annual program Retreat: “Interlaminar Dynamics of Color Representation in V1”, February 2021
+CU MSTP 2nd Annual program Retreat: “Interlaminar Dynamics of Color Representation in V1”, February 2021
 
 `2020`
--	MSTP Seminar Series: “Wavelength Specific Representation of Stimuli in the Mouse Visual Cortex”, September 2020
+MSTP Seminar Series: “Wavelength Specific Representation of Stimuli in the Mouse Visual Cortex”, September 2020
 
 `2019`
--	MSTP Seminar Series: “Motor Learning Enhancement by Vagus Nerve Stimulation is Mediated by Cholinergic Basal Forebrain Neurons”, August 2019
+MSTP Seminar Series: “Motor Learning Enhancement by Vagus Nerve Stimulation is Mediated by Cholinergic Basal Forebrain Neurons”, August 2019
 
 `2018`
--	Thesis Defense: “Effects of repetitive acute intermittent hypoxia on lesion volume following cervical spinal cord injury”, March 2018
+Thesis Defense: “Effects of repetitive acute intermittent hypoxia on lesion volume following cervical spinal cord injury”, March 2018
 
 `2017`
--	Respiratory Section Mixer, Experimental Biology: “Six months of repetitive acute intermittent hypoxia drives serotonergic axon growth through a spinal injury”, April 2017
+Respiratory Section Mixer, Experimental Biology: “Six months of repetitive acute intermittent hypoxia drives serotonergic axon growth through a spinal injury”, April 2017
 
 `2016`
--	UF Department of Anesthesiology Celebration of Research: “Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves Intracerebral Hemorrhage Outcomes”, May 2016
+UF Department of Anesthesiology Celebration of Research: “Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves Intracerebral Hemorrhage Outcomes”, May 2016
 
 
 
