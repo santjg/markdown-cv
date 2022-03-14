@@ -140,7 +140,8 @@ Volunteer; UF Health Movement Disorders Clinic
 |Adobe Photoshop|Kilosort|Python|
 |Affinity Illustrator|Markdown|SpikeGLX|
 |GitHub|MATLAB||
-### Commonly Used Python Libraries
+### Frequently Used 
+### Python Libraries
 | | | |
 |----------|--------|-----|
 |Matplotlib|PsychoPy|SciPy|
