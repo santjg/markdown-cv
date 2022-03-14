@@ -26,23 +26,23 @@ My thesis project is centered around investigating the mechanisms that underlie 
 
 __University of Colorado Anschutz Medical Campus__, Aurora, CO
 `2020 - `
-- PhD Student, Neuroscience Graduate Program
+PhD Student, Neuroscience Graduate Program
+**Thesis Advisor**: Daniel J. Denman, PhD
 
 `2018 - `
-- Medical Student, Medical Scientist Training Program
+Medical Student, Medical Scientist Training Program
 
 
 __University of Florida__, Gainesville, FL
 `2016 - 2018`
-- Master of Science, Medical Sciences, College of Medicine
-- Thesis Advisor: Gordon S. Mitchell, PhD
+Master of Science, Medical Sciences, College of Medicine  
+**Thesis Advisor**: Gordon S. Mitchell, PhD
 
 `2013 - 2016`
-- Bachelor of Science, Behavioral and Cognitive Neurosciences
-- Minor in Spanish
+Bachelor of Science, __*Behavioral and Cognitive Neurosciences*__
+Minor in Spanish, __*College of Liberal Arts and Sciences*__
 
 ## Positions and Scientific Appointments
-
 
 `2020 - `
 Graduate Student, **Daniel J. Denman Lab, University of Colorado Medical Scientist Training Program**, Aurora, CO
