@@ -127,6 +127,18 @@ Care Coordinator; University of Florida Mobile Outreach Clinic
 Volunteer; UF Health Movement Disorders Clinic
 
 ## Skills
+
+<div class="row">
+  <div class="column">
+    <p>Some text..</p>
+  </div>
+  <div class="column">
+    <p>Some text..</p>
+  </div>
+  <div class="column">
+    <p>Some text..</p>
+  </div>
+</div>
 ### Technical
 | | | |   
 |-----------------------------|----------------------|-------------------------------|  
