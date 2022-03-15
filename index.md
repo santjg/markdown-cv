@@ -13,7 +13,7 @@ MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 ## Currently
 
-Third Year MD-PhD Student at the University of Colorado Anschutz Medical Campus
+Fourth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus
 PhD Student in the Lab of Daniel J. Denman, PhD
 
 ### Research Interests
