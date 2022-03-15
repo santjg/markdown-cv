@@ -128,6 +128,7 @@ Volunteer; UF Health Movement Disorders Clinic
 
 ## Skills
 ### Technical
+
 <div class="row">
   <div class="column">
     <p>Cryostat-microtome sectioning<p>
@@ -144,44 +145,49 @@ Volunteer; UF Health Movement Disorders Clinic
     <p>Stereotaxic Surgery</p>
   </div>
 </div>
+
 ### Software
+
 <div class="row">
   <div class="column">
-    <p>Adobe Illustrator</p>
-    <p>Adobe Photoshop</p>
-    <p>Affinity Illustrator</p>
+    <p>Adobe Illustrator<p>
+    <p>Adobe Photoshop<p>
+    <p>Affinity Illustrator<p>
     <p>GitHub</p>
   </div>
   <div class="column">
-    <p>ImageJ/Fiji</p>
-    <p>Kilosort</p>
-    <p>Markdown</p>
+    <p>ImageJ/Fiji<p>
+    <p>Kilosort<p>
+    <p>Markdown<p>
     <p>MATLAB</p>
   </div>
   <div class="column">
-    <p>Neurodata Without Borders (NWB)</p>
-    <p>Python</p>
+    <p>Neurodata Without Borders (NWB)<p>
+    <p>Python<p>
     <p>SpikeGLX</p>
   </div>
 </div>
+
 ### Frequently Used 
 ### Python Libraries
- <div class="column">
-    <p>Matplotlib</p>
-    <p>Numpy</p>
+<div class="row">
+  <div class="column">
+    <p>Matplotlib<p>
+    <p>Numpy<p>
     <p>Pandas</p>
   </div>
   <div class="column">
-    <p>PsychoPy</p>
-    <p>PyNWB</p>
+    <p>PsychoPy<p>
+    <p>PyNWB<p>
     <p>Seaborn</p>
   </div>
   <div class="column">
-    <p>SciPy</p>
-    <p></p>
+    <p>SciPy<p>
+    <p><p>
     <p></p>
   </div>
 </div>
+
 ### Languages 
 English (Primary Language)  
 Spanish (First Language, Fluent)  
