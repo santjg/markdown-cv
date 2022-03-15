@@ -127,17 +127,10 @@ Care Coordinator; University of Florida Mobile Outreach Clinic
 Volunteer; UF Health Movement Disorders Clinic
 
 ## Skills
-<style>
-* {
-  box-sizing: border-box;
-}
 
-/* Create three equal columns that floats next to each other */
 .column {
   float: left;
   width: 33.33%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -146,6 +139,7 @@ Volunteer; UF Health Movement Disorders Clinic
   display: table;
   clear: both;
 }
+
 <div class="row">
   <div class="column" style="background-color:#aaa;">
     <h2>Column 1</h2>
