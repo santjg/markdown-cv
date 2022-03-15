@@ -127,38 +127,60 @@ Care Coordinator; University of Florida Mobile Outreach Clinic
 Volunteer; UF Health Movement Disorders Clinic
 
 ## Skills
-
+### Technical
 <div class="row">
   <div class="column">
-    <p>Some text..</p>
+    <p>Cryostat-microtome sectioning</p>
+    <p>Immunohistochemistry</p>
+    <p>Mouse/rat handling and behavior</p>
   </div>
   <div class="column">
-    <p>Some text..</p>
+    <p>Neuropixels Recordings</p>
+    <p>Perfusion and Tissue Collection</p>
+    <p>Perioperative Animal Care</p>
   </div>
   <div class="column">
-    <p>Some text..</p>
+    <p>Spinal Cord Injury Lesion Model</p>
+    <p>Stereotaxic Surgery</p>
   </div>
 </div>
-### Technical
-| | | |   
-|-----------------------------|----------------------|-------------------------------|  
-|Cryostat-microtome sectioning|Neuropixels Recordings|Spinal Cord Injury Lesion Model|  
-|Immunohistochemistry|Perfusion and Tissue Collection|Stereotaxic Surgery|  
-|Mouse/rat handling and behavior|Perioperative Animal Care||  
-### Software
-| | | |  
-|-----------------|-----------|-------------------------------|  
-|Adobe Illustrator|ImageJ/Fiji|Neurodata Without Borders (NWB)|  
-|Adobe Photoshop|Kilosort|Python|  
-|Affinity Illustrator|Markdown|SpikeGLX|  
-|GitHub|MATLAB||  
+### Software<div class="row">
+  <div class="column">
+    <p>Adobe Illustrator</p>
+    <p>Adobe Photoshop</p>
+    <p>Affinity Illustrator</p>
+    <p>GitHub</p>
+  </div>
+  <div class="column">
+    <p>ImageJ/Fiji</p>
+    <p>Kilosort</p>
+    <p>Markdown</p>
+    <p>MATLAB</p>
+  </div>
+  <div class="column">
+    <p>Neurodata Without Borders (NWB)</p>
+    <p>Python</p>
+    <p>SpikeGLX</p>
+  </div>
+</div>
 ### Frequently Used 
 ### Python Libraries
-| | | |  
-|----------|--------|-----|  
-|Matplotlib|PsychoPy|SciPy|  
-|Numpy|PyNWB||  
-|Pandas|Seaborn||  
+ <div class="column">
+    <p>Matplotlib</p>
+    <p>Numpy</p>
+    <p>Pandas</p>
+  </div>
+  <div class="column">
+    <p>PsychoPy</p>
+    <p>PyNWB</p>
+    <p>Seaborn</p>
+  </div>
+  <div class="column">
+    <p>SciPy</p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
 ### Languages 
 English (Primary Language)  
 Spanish (First Language, Fluent)  
