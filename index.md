@@ -293,8 +293,6 @@ UF Department of Anesthesiology Celebration of Research: “Modulation of Neuroi
 
 
 
-### Footer
-
-Last updated: April 2022
+### Last updated: April 2022
 
 
