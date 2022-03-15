@@ -131,8 +131,8 @@ Volunteer; UF Health Movement Disorders Clinic
 <head>
 <style>
 .column {
-  float: left;
-  width: 33.33%;
+  float: right;
+  width: 20%;
 }
 
 /* Clear floats after the columns */
