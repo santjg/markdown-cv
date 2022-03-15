@@ -144,7 +144,7 @@ Volunteer; UF Health Movement Disorders Clinic
     <p>Spinal Cord Injury Lesion Model<p>
     <p>Stereotaxic Surgery</p>
   </div>
-
+</div>
 
 ### Software
 
@@ -170,6 +170,7 @@ Volunteer; UF Health Movement Disorders Clinic
 
 ### Frequently Used 
 ### Python Libraries
+
 <div class="row">
   <div class="column">
     <p>Matplotlib<p>
