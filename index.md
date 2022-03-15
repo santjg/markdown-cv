@@ -130,21 +130,22 @@ Volunteer; UF Health Movement Disorders Clinic
 ### Technical
 <div class="row">
   <div class="column">
-    <p>Cryostat-microtome sectioning</p>
-    <p>Immunohistochemistry</p>
+    <p>Cryostat-microtome sectioning<p>
+    <p>Immunohistochemistry<p>
     <p>Mouse/rat handling and behavior</p>
   </div>
   <div class="column">
-    <p>Neuropixels Recordings</p>
-    <p>Perfusion and Tissue Collection</p>
+    <p>Neuropixels Recordings<p>
+    <p>Perfusion and Tissue Collection<p>
     <p>Perioperative Animal Care</p>
   </div>
   <div class="column">
-    <p>Spinal Cord Injury Lesion Model</p>
+    <p>Spinal Cord Injury Lesion Model<p>
     <p>Stereotaxic Surgery</p>
   </div>
 </div>
-### Software<div class="row">
+### Software
+<div class="row">
   <div class="column">
     <p>Adobe Illustrator</p>
     <p>Adobe Photoshop</p>
