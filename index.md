@@ -144,7 +144,7 @@ Volunteer; UF Health Movement Disorders Clinic
     <p>Spinal Cord Injury Lesion Model<p>
     <p>Stereotaxic Surgery</p>
   </div>
-</div>
+
 
 ### Software
 
