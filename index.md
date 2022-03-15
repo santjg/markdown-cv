@@ -142,7 +142,8 @@ Volunteer; UF Health Movement Disorders Clinic
   </div>
   <div class="column">
     <p>Spinal Cord Injury Lesion Model<p>
-    <p>Stereotaxic Surgery</p>
+    <p>Stereotaxic Surgery<p>
+    <p><p/>
   </div>
 </div>
 
@@ -164,7 +165,8 @@ Volunteer; UF Health Movement Disorders Clinic
   <div class="column">
     <p>Neurodata Without Borders (NWB)<p>
     <p>Python<p>
-    <p>SpikeGLX</p>
+    <p>SpikeGLX<p>
+    <p><p/>
   </div>
 </div>
 
