@@ -131,7 +131,7 @@ Volunteer; UF Health Movement Disorders Clinic
 <head>
 <style>
 .column {
-  float: left;
+  float: right;
   width: 25%;
 }
 
@@ -149,9 +149,9 @@ Volunteer; UF Health Movement Disorders Clinic
 
 <div class="row">
   <div class="column">
-    <p>Cryostat-microtome sectioning</p>
-    <p>Immunohistochemistry</p>
-    <p>Mouse/rat handling and behavior</p>
+    <p>Spinal Cord Injury Lesion Model</p>
+    <p>Stereotaxic Surgery</p>
+    <p></p>
   </div>
   <div class="column">
     <p>Neuropixels Recordings</p>
@@ -159,9 +159,9 @@ Volunteer; UF Health Movement Disorders Clinic
     <p>Perioperative Animal Care</p>
   </div>
   <div class="column">
-    <p>Spinal Cord Injury Lesion Model</p>
-    <p>Stereotaxic Surgery</p>
-    <p></p>
+    <p>Cryostat-microtome sectioning</p>
+    <p>Immunohistochemistry</p>
+    <p>Mouse/rat handling and behavior</p>
   </div>
 </div>
 
@@ -169,10 +169,10 @@ Volunteer; UF Health Movement Disorders Clinic
 
 <div class="row">
   <div class="column">
-    <p>Adobe Illustrator</p>
-    <p>Adobe Photoshop</p>
-    <p>Affinity Illustrator</p>
-    <p>GitHub</p>
+    <p>Neurodata Without Borders (NWB)</p>
+    <p>Python</p>
+    <p>SpikeGLX</p>
+    <p></p>
   </div>
   <div class="column">
     <p>ImageJ/Fiji</p>
@@ -181,10 +181,10 @@ Volunteer; UF Health Movement Disorders Clinic
     <p>MATLAB</p>
   </div>
   <div class="column">
-    <p>Neurodata Without Borders (NWB)</p>
-    <p>Python</p>
-    <p>SpikeGLX</p>
-    <p></p>
+    <p>Adobe Illustrator</p>
+    <p>Adobe Photoshop</p>
+    <p>Affinity Illustrator</p>
+    <p>GitHub</p>
   </div>
 </div>
 
@@ -193,9 +193,9 @@ Volunteer; UF Health Movement Disorders Clinic
 
 <div class="row">
   <div class="column">
-    <p>Matplotlib</p>
-    <p>Numpy</p>
-    <p>Pandas</p>
+    <p>SciPy</p>
+    <p></p>
+    <p></p>
   </div>
   <div class="column">
     <p>PsychoPy</p>
@@ -203,9 +203,9 @@ Volunteer; UF Health Movement Disorders Clinic
     <p>Seaborn</p>
   </div>
   <div class="column">
-    <p>SciPy</p>
-    <p></p>
-    <p></p>
+    <p>Matplotlib</p>
+    <p>Numpy</p>
+    <p>Pandas</p>
   </div>
 </div>
 
