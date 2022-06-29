@@ -186,7 +186,7 @@ Volunteer; UF Health Movement Disorders Clinic
     <p>Affinity Illustrator</p>
     <p>GitHub</p>
   </div>
-</div> -->
+</div>
 
 <!-- ### Frequently Used 
 ### Python Libraries
