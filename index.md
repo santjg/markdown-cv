@@ -13,12 +13,12 @@ MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 ## Currently
 
-Fourth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus
+Rising Fifth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus
 PhD Student in the Lab of Daniel J. Denman, PhD
 
 ### Research Interests
 
-My thesis project is centered around investigating the mechanisms that underlie the integration of color and form in the early visual system at the level of circuits and populations using Neuropixels probes
+My thesis project is centered around investigating the mechanisms that underlie the spatial integration of color and form in the early visual system at the level of circuits and populations using Neuropixels probes
 
 
 ## Education
@@ -186,9 +186,9 @@ Volunteer; UF Health Movement Disorders Clinic
     <p>Affinity Illustrator</p>
     <p>GitHub</p>
   </div>
-</div>
+</div> -->
 
-### Frequently Used 
+<!-- ### Frequently Used 
 ### Python Libraries
 
 <div class="row">
@@ -207,7 +207,7 @@ Volunteer; UF Health Movement Disorders Clinic
     <p>Numpy</p>
     <p>Pandas</p>
   </div>
-</div>
+</div> -->
 
 ### Languages 
 English (Primary Language)  
