@@ -33,7 +33,7 @@ PhD Student, Neuroscience Graduate Program
 `2018 - `
 Medical Student, Medical Scientist Training Program  
 
-
+<br>
 
 __University of Florida__, Gainesville, FL  
 
