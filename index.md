@@ -13,7 +13,7 @@ MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 ## Currently
 
-Rising Fifth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus
+Fifth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus
 PhD Student in the Lab of Daniel J. Denman, PhD
 
 ### Research Interests
@@ -59,20 +59,25 @@ Undergraduate Researcher, **Gordon S. Mitchell Lab, University of Florida**, Gai
 `2014 - 2015`
 Undergraduate Researcher, **Sylvain Dore Lab, University of Florida**, Gainesville, FL
 
-## Awards
-
+## Grants
+`2023 - `
+Fellowship, Thalamocortical mechanisms producing spatial chromatic contrast in mouse V1, NEI, 1F30EY034775-01
 
 `2020 - 2022`
-Research Diversity Supplement, National Eye Institute
+Research Diversity Supplement, Milisecond resolution statistics of cortical populations, NEI, R00EY028612
 
 `2018 - 2020`
-Trainee, NIH Institutional T32 MSTP Grant GM008497
+Trainee, Mdical Scientist Training Program, NIGMS, T32GM008497
+
+## Awards
+`2022`
+Travel Award, NDiSTEM Conference, Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)
 
 `2019`
-First Place, Ethics Case Competition, University of Colorado
+First Place, Ethics Case Competition, University of Colorado School of Medicine (CUSOM)
 
 `2018`
-First Place, Ethics Case Competition, University of Colorado
+First Place, Ethics Case Competition, CUSOM
 
 `2017`
 Volunteer Recognition Award, UF Mobile Outreach Clinic
@@ -85,21 +90,26 @@ Travel Grant, UF Graduate Student Council
 Academic Scholar, Florida Bright Futures
 
 ## Other Relevant Experience and Professional Memberships
-`2021 - `
-Physician Scientist Track Lead; CU Summer Research Training Program
+`2022 - `
+Chair of Student Affairs; Colorado Research Experiences (CORE)
+
+National Liaison; SACNAS, CUSOM Chapter
 
 `2020 - `
-Member; Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS), CUSOM Chapter
+Member; SACNAS
 
 Chair; Inclusion, Diversity, and Equity in Admissions Committee, CU MSTP Student Council
 
-Class Representative; University of Colorado MSTP Student Council
-
-`2019 - `
-Volunteer Project Mentor; Bryant-Webster Dual-Language School Science Mentoring Program
+Class Representative; CU MSTP Student Council
 
 `2018 - `
 Student Member; American Medical Association
+
+`2021 - 2022`
+Physician Scientist Track Lead; CORE
+
+`2019 - 2021`
+Volunteer Project Mentor; Bryant-Webster Dual-Language School Science Mentoring Program
 
 `2021`
 Conference Organizer; 36th National MD-PhD Student Conference
@@ -107,7 +117,7 @@ Conference Organizer; 36th National MD-PhD Student Conference
 Organizer; CU MSTP 2nd Annual Program Retreat
 
 `2019 - 2020`
-Instructor; Spanish Acquisition Begets Enhanced Service, CU School of Medicine
+Instructor; Spanish Acquisition Begets Enhanced Service, CUSOM
 
 President; Latino Medical Student Association (LMSA), CUSOM Chapter
 
@@ -217,6 +227,8 @@ Spanish (First Language, Fluent)
 
 
 A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en)
+`2022`
+- Marciante, A.B., Howard,  J., Kelly, M.N., **Santiago Moreno, J.**, ..., & Mitchell, G.S. (2022). Dose-dependent phosphorylation of endogenous Tau by intermittent hypoxia in rat brain. Journal of Applied Physiology, 133(3), 561-571.
 
 `2019`
 Tekriwal, A., Afshar, N. M., **Santiago-Moreno, J.**, Kuijper, F. M., Kern, D. S., Halpern, C. H., ... & Thompson, J. A. (2019). Neural circuit and clinical insights from intraoperative recordings during deep brain stimulation surgery. Brain sciences, 9(7), 173.
@@ -268,6 +280,8 @@ Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, Doré, S. Overexpression of S
 Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, & Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
 
 ## Oral Presentations
+`2022`
+MSTP Seminar Series: "Thalamocortical Integration of Color in Visual Space", September 2022
 
 `2021`
 Comprehensive Exam: “Color Information Processing via Communication Subspaces”, March 2021
