@@ -24,7 +24,7 @@ My thesis project is centered around investigating the mechanisms that underlie 
 ## Education
 
 
-__University of Colorado Anschutz Medical Campus__, Aurora, CO  
+###__University of Colorado Anschutz Medical Campus__, Aurora, CO  
 
 `2020 - `
 PhD Student, Neuroscience Graduate Program  
@@ -34,7 +34,8 @@ PhD Student, Neuroscience Graduate Program
 Medical Student, Medical Scientist Training Program  
 
 
-__University of Florida__, Gainesville, FL  
+
+###__University of Florida__, Gainesville, FL  
 
 `2016 - 2018`
 Master of Science, Medical Sciences, College of Medicine  
