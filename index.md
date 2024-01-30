@@ -13,13 +13,12 @@ MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 ## Currently
 
-Fifth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus
+Sixth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus.</br>
 PhD Student in the Lab of Daniel J. Denman, PhD
 
 ### Research Interests
 
 My thesis project is centered around investigating the mechanisms that underlie the spatial integration of color and form in the early visual system at the level of circuits and populations using Neuropixels probes
-
 
 ## Education
 
@@ -63,16 +62,18 @@ Undergraduate Researcher, **Gordon S. Mitchell Lab, University of Florida**, Gai
 Undergraduate Researcher, **Sylvain Dore Lab, University of Florida**, Gainesville, FL
 
 ## Grants
+
 `2023 - `
-Fellowship, Thalamocortical mechanisms producing spatial chromatic contrast in mouse V1, NEI, 1F30EY034775-01
+F30 Fellowship, Thalamocortical mechanisms producing spatial chromatic contrast in mouse V1, NEI, 1F30EY034775-01
 
 `2020 - 2022`
-Research Diversity Supplement, Milisecond resolution statistics of cortical populations, NEI, R00EY028612
+NIH Research Diversity Supplement, Milisecond resolution statistics of cortical populations, NEI, R00EY028612
 
 `2018 - 2020`
-Trainee, Mdical Scientist Training Program, NIGMS, T32GM008497
+T32 Trainee, Medical Scientist Training Program, NIGMS, T32GM008497
 
 ## Awards
+
 `2022`
 Travel Award, NDiSTEM Conference, Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)
 
@@ -93,13 +94,11 @@ Travel Grant, UF Graduate Student Council
 Academic Scholar, Florida Bright Futures
 
 ## Other Relevant Experience and Professional Memberships
-`2022 - `
-Chair of Student Affairs; Colorado Research Experiences (CORE)
-
-National Liaison; SACNAS, CUSOM Chapter
+`2023 - `
+Planning Committee; CU MSTP Second Look
 
 `2020 - `
-Member; SACNAS
+Member; Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)
 
 Chair; Inclusion, Diversity, and Equity in Admissions Committee, CU MSTP Student Council
 
@@ -107,6 +106,16 @@ Class Representative; CU MSTP Student Council
 
 `2018 - `
 Student Member; American Medical Association
+
+`2023`
+Member; CU MSTP Assistant Program Director Search Committee
+
+Mock Interviewer; CU PIKE-PREP
+
+`2022 - 2023`
+Chair of Student Affairs; Colorado Research Experiences (CORE)
+
+National Liaison; SACNAS, CUSOM Chapter
 
 `2021 - 2022`
 Physician Scientist Track Lead; CORE
@@ -139,89 +148,6 @@ Care Coordinator; University of Florida Mobile Outreach Clinic
 `2017`
 Volunteer; UF Health Movement Disorders Clinic
 
-## Skills
-<html>
-<head>
-<style>
-.column {
-  float: right;
-  width: 25%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-</html>
-
-### Technical
-
-<div class="row">
-  <div class="column">
-    <p>Spinal Cord Injury Lesion Model</p>
-    <p>Stereotaxic Surgery</p>
-    <p></p>
-  </div>
-  <div class="column">
-    <p>Neuropixels Recordings</p>
-    <p>Perfusion and Tissue Collection</p>
-    <p>Perioperative Animal Care</p>
-  </div>
-  <div class="column">
-    <p>Cryostat-microtome sectioning</p>
-    <p>Immunohistochemistry</p>
-    <p>Mouse/rat handling and behavior</p>
-  </div>
-</div>
-
-### Software
-
-<div class="row">
-  <div class="column">
-    <p>Neurodata Without Borders (NWB)</p>
-    <p>Python</p>
-    <p>SpikeGLX</p>
-    <p></p>
-  </div>
-  <div class="column">
-    <p>ImageJ/Fiji</p>
-    <p>Kilosort</p>
-    <p>Markdown</p>
-    <p>MATLAB</p>
-  </div>
-  <div class="column">
-    <p>Adobe Illustrator</p>
-    <p>Adobe Photoshop</p>
-    <p>Affinity Illustrator</p>
-    <p>GitHub</p>
-  </div>
-</div>
-
-<!-- ### Frequently Used 
-### Python Libraries
-
-<div class="row">
-  <div class="column">
-    <p>SciPy</p>
-    <p></p>
-    <p></p>
-  </div>
-  <div class="column">
-    <p>PsychoPy</p>
-    <p>PyNWB</p>
-    <p>Seaborn</p>
-  </div>
-  <div class="column">
-    <p>Matplotlib</p>
-    <p>Numpy</p>
-    <p>Pandas</p>
-  </div>
-</div> -->
-
 ### Languages 
 English (Primary Language)  
 Spanish (First Language, Fluent)  
@@ -243,12 +169,18 @@ Rastogi Vaibhav, **Santiago-Moreno, J.**, Dore S. Ginseng: a promising neuroprot
 
 
 ## Abstracts
+`2023`
+**Santiago Moreno, J.**, Denman, D.J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, February 2023
+
+**Santiago Moreno, J.**, Denman, D.J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at Association for Research in Vision and Ophthalmology, New Orleans, LA, April 2023
+
+**Santiago Moreno, J.**, Denman, D.J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU MSTP Annual Retreat, Aurora, CO, February 2023
 
 `2022`
-**Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the 3rd Annual CU MSTP Program Retreat, Aurora, CO, February 2022
+**Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the 3rd Annual CU MSTP Annual Retreat, Aurora, CO, February 2022
 
 `2021`
-**Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the Neuroscience Graduate Program Retreat, Granby, CO, October 2021
+**Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the Neuroscience Graduate Program Annual Retreat, Granby, CO, October 2021
 
 `2019`
 Leclerc, J., Lampert, A.S., Phillips, H., Esfandiary, T., Dang, A., **Santiago-Moreno, J.**, Dore, S. Haptoglobin is Present as Zonulin in the Brain and Overexpression Improves Intracerebral Hemorrhage Outcomes. Poster presented at International Stroke Conference, Honolulu, HI, February 2019
@@ -282,6 +214,17 @@ Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, Doré, S. Overexpression of S
 Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, & Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
 
 ## Oral Presentations
+`2023`
+Neuroscience Program Thesis Update Talk: "Thalamocortical Integration of Color in Visual Space", December 2023
+
+MSTP Thesis Update Talk: "Thalamocortical Integration of Color in Visual Space", October 2023
+
+Professional Development Seminar: Getting into Medical School, June 2023
+
+Professional Development Seminar: What is a Physician Scientist?, June 2023
+
+Neuroscience Program Thesis Update Talk: "Thalamocortical Integration of Color in Visual Space", March 2023
+
 `2022`
 MSTP Seminar Series: "Thalamocortical Integration of Color in Visual Space", September 2022
 
@@ -307,8 +250,6 @@ UF Department of Anesthesiology Celebration of Research: “Modulation of Neuroi
 
 
 
-
-
-### Last updated: January 2023
+### Last updated: January 2024
 
 
