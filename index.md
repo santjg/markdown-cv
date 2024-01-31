@@ -67,7 +67,7 @@ Undergraduate Researcher, **Sylvain Dore Lab, University of Florida**, Gainesvil
 F30 Fellowship, Thalamocortical mechanisms producing spatial chromatic contrast in mouse V1, NEI, 1F30EY034775-01
 
 `2020 - 2022`
-NIH Research Diversity Supplement, Milisecond resolution statistics of cortical populations, NEI, R00EY028612
+NIH Research Diversity Supplement, Millisecond resolution statistics of cortical populations, NEI, R00EY028612
 
 `2018 - 2020`
 T32 Trainee, Medical Scientist Training Program, NIGMS, T32GM008497
