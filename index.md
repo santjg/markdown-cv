@@ -153,7 +153,7 @@ English (Primary Language)
 Spanish (First Language, Fluent)  
 
 ## Publications
-A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en)  
+<!--- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en)  --->
 
 `2022`
 - Marciante, A.B., Howard,  J., Kelly, M.N., **Santiago Moreno, J.**, ..., & Mitchell, G.S. (2022). Dose-dependent phosphorylation of endogenous Tau by intermittent hypoxia in rat brain. Journal of Applied Physiology, 133(3), 561-571.
