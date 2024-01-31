@@ -7,7 +7,7 @@ MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 <div id="webaddress">
 <a href="juan.santiagomoreno@cuanschutz.edu">juan.santiagomoreno@cuanschutz.edu</a>
-| <a href="https://denmanlab.github.io">Denman Lab Webpage</a>
+<!--- | <a href="https://denmanlab.github.io">Denman Lab Webpage</a> --->
 </div>
 
 
