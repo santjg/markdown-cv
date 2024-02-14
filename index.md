@@ -6,7 +6,7 @@ title: Juan Santiago Moreno CV
 MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 <div id="webaddress">
-<a href="juan.santiagomoreno@cuanschutz.edu">juan.santiagomoreno@cuanschutz.edu</a>
+<a href="juan.santiago-moreno@cuanschutz.edu">juan.santiagomoreno@cuanschutz.edu</a>
 <!--- | <a href="https://denmanlab.github.io">Denman Lab Webpage</a> --->
 </div>
 
@@ -170,13 +170,15 @@ Rastogi Vaibhav, **Santiago-Moreno, J.**, Dore S. Ginseng: a promising neuroprot
 
 ## Abstracts
 `2023`
-**Santiago Moreno, J.**, Denman, D.J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, February 2023
+**Santiago Moreno, J.**, Denman, D.J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, October 2023
 
 **Santiago Moreno, J.**, Denman, D.J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at Association for Research in Vision and Ophthalmology, New Orleans, LA, April 2023
 
 **Santiago Moreno, J.**, Denman, D.J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU MSTP Annual Retreat, Aurora, CO, February 2023
 
 `2022`
+**Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the National MD-PhD Student Conference, Copper Mountain, CO, July 2022
+
 **Santiago Moreno, J.**, Denman, D.J. Color Representation in the Primary Visual Cortex. Poster presented at the 3rd Annual CU MSTP Annual Retreat, Aurora, CO, February 2022
 
 `2021`
