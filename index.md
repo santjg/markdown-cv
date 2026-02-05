@@ -2,35 +2,31 @@
 layout: cv
 title: Juan Santiago Moreno CV
 ---
-# Juan G. Santiago Moreno
+# Juan G. Santiago Moreno, PhD
 MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 <div id="webaddress">
-<a href="juan.santiago-moreno@cuanschutz.edu">juan.santiago-moreno@cuanschutz.edu</a>
+<a href="juan.santiagomoreno@cuanschutz.edu">juan.santiagomoreno@cuanschutz.edu</a>
 <!--- | <a href="https://denmanlab.github.io">Denman Lab Webpage</a> --->
 </div>
 
 
 ## Currently
 
-Sixth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus.  
-PhD Student in the Lab of Daniel J. Denman, PhD
-
-### Research Interests
-
-My thesis project is centered around investigating the mechanisms that underlie the spatial integration of color and form in the early visual system at the level of circuits and populations using Neuropixels probes
+Eighth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus.  
+Currently doing my clinical clerkship at Denver Health Hospital.
 
 ## Education
 
 
 __University of Colorado Anschutz Medical Campus__, Aurora, CO  
 
-`2020 - `
-PhD Student, Neuroscience Graduate Program  
-**Thesis Advisor**: Daniel J. Denman, PhD
-
 `2018 - `
 Medical Student, Medical Scientist Training Program  
+
+`2020 - 2025`
+Doctor of Philosophy, Neuroscience Graduate Program  
+**Thesis Advisor**: Daniel J. Denman, PhD
 
 <br>
 
@@ -46,11 +42,11 @@ Minor in Spanish, College of Liberal Arts and Sciences
 
 ## Positions and Scientific Appointments
 
-`2020 - `
-Graduate Student, **Daniel J. Denman Lab, University of Colorado Medical Scientist Training Program**, Aurora, CO
-
 `2018 - `
 Medical Student, **University of Colorado School of Medicine, Medical Scientist Training Program**, Aurora, CO
+
+`2020 - 2025`
+PhD Student, **Daniel J. Denman Lab, University of Colorado Medical Scientist Training Program**, Aurora, CO
 
 `2016 - 2018`
 Master's Student, **Gordon S. Mitchell Lab, University of Florida College of Medicine**, Gainesville, FL
@@ -94,21 +90,22 @@ Travel Grant, UF Graduate Student Council
 Academic Scholar, Florida Bright Futures
 
 ## Other Relevant Experience and Professional Memberships
-`2023 - `
-Planning Committee; CU MSTP Second Look
 
 `2020 - `
 Member; Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)
-
-Chair; Inclusion, Diversity, and Equity in Admissions Committee, CU MSTP Student Council
 
 Class Representative; CU MSTP Student Council
 
 `2018 - `
 Student Member; American Medical Association
 
+`2024`
+Planning Committee; CU MSTP Second Look
+
 `2023`
 Member; CU MSTP Assistant Program Director Search Committee
+
+Planning Committee; CU MSTP Second Look
 
 Mock Interviewer; CU PIKE-PREP
 
@@ -119,6 +116,9 @@ National Liaison; SACNAS, CUSOM Chapter
 
 `2021 - 2022`
 Physician Scientist Track Lead; CORE
+
+`2020-2021`
+Chair; Inclusion, Diversity, and Equity in Admissions Committee, CU MSTP Student Council
 
 `2019 - 2021`
 Volunteer Project Mentor; Bryant-Webster Dual-Language School Science Mentoring Program
@@ -155,8 +155,13 @@ Spanish (First Language, Fluent)
 ## Publications
 <!--- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en)  --->
 
+`2025`
+**IN SUBMISSION** Hickman, J.L., **Santiago Moreno, J.** (co-first), Hughes, G., Sahai, E., Garcia, N., Denman, D.J., Non-uniform spike count noise correlation enhances visual stimulus information at fine time scales in the mouse early visual system.
+
+**IN PREPARATION** **Santiago Moreno, J.**, Garcia, N., Denman, D.J. Separable neural population representations are constructed from mixed single neuron selectivity in the mouse early visual system
+
 `2022`
-- Marciante, A.B., Howard,  J., Kelly, M.N., **Santiago Moreno, J.**, ..., & Mitchell, G.S. (2022). Dose-dependent phosphorylation of endogenous Tau by intermittent hypoxia in rat brain. Journal of Applied Physiology, 133(3), 561-571.
+Marciante, A.B., Howard,  J., Kelly, M.N., **Santiago Moreno, J.**, ..., & Mitchell, G.S. (2022). Dose-dependent phosphorylation of endogenous Tau by intermittent hypoxia in rat brain. Journal of Applied Physiology, 133(3), 561-571.
 
 `2019`
 Tekriwal, A., Afshar, N. M., **Santiago-Moreno, J.**, Kuijper, F. M., Kern, D. S., Halpern, C. H., ... & Thompson, J. A. (2019). Neural circuit and clinical insights from intraoperative recordings during deep brain stimulation surgery. Brain sciences, 9(7), 173.
@@ -169,6 +174,17 @@ Rastogi Vaibhav, **Santiago-Moreno, J.**, Dore S. Ginseng: a promising neuroprot
 
 
 ## Abstracts
+
+`2025`
+**Santiago Moreno, J.**, Denman, D.J. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at CU MSTP Annual Retreat, Aurora, CO, April 2025
+
+`2024`
+**Santiago Moreno, J.**, Denman, D.J. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, October 2024
+
+**Santiago Moreno, J.**, Denman, D.J. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at Society for Neuroscience, Chicago, IL, October 2024
+
+**Santiago Moreno, J.**, Denman, D.J. Distribution of chromatic tuning in the mouse early visual system. Poster presented at CU MSTP Annual Retreat, Aurora, CO, April 2024
+
 `2023`
 **Santiago Moreno, J.**, Denman, D.J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, October 2023
 
@@ -216,6 +232,11 @@ Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, Doré, S. Overexpression of S
 Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, & Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
 
 ## Oral Presentations
+`2025`
+Thesis Defense: "Separable population codes constructed from mixed single cell representations", August 2025
+
+Conference Talk: "Uniform distribution of spectral tuning in the mouse early visual system", Vision Sciences Society, St. Petersburg, FL, May 2025
+
 `2023`
 Neuroscience Program Thesis Update Talk: "Thalamocortical Integration of Color in Visual Space", December 2023
 
@@ -252,6 +273,6 @@ UF Department of Anesthesiology Celebration of Research: “Modulation of Neuroi
 
 
 
-### Last updated: January 2024
+### Last updated: February 2026
 
 
