@@ -156,9 +156,9 @@ Spanish (First Language, Fluent)
 <!--- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en)  --->
 
 `2025`
-**IN SUBMISSION** Hickman, J.L., **Santiago Moreno, J.** (co-first), Hughes, G., Sahai, E., Garcia, N., Denman, D.J., Non-uniform spike count noise correlation enhances visual stimulus information at fine time scales in the mouse early visual system.
+Hickman, J.L.\*, **Santiago Moreno, J.**\* (co-first), Hughes, G., Sahai, E., Garcia, N., Denman, D.J. (2026), Non-uniform spike count noise correlation enhances visual stimulus information at fine time scales in the mouse early visual system. Journal of Neurophysiology
 
-**IN PREPARATION** **Santiago Moreno, J.**, Garcia, N., Denman, D.J. Separable neural population representations are constructed from mixed single neuron selectivity in the mouse early visual system
+**Santiago Moreno, J.**, Garcia, N., Denman, D.J. (2025), Separable neural population representations are constructed from mixed single neuron selectivity in the mouse early visual system. BioRXiv, doi: 10.1101/2025.08.25.672226.
 
 `2022`
 Marciante, A.B., Howard,  J., Kelly, M.N., **Santiago Moreno, J.**, ..., & Mitchell, G.S. (2022). Dose-dependent phosphorylation of endogenous Tau by intermittent hypoxia in rat brain. Journal of Applied Physiology, 133(3), 561-571.
