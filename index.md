@@ -155,15 +155,13 @@ Spanish (First Language, Fluent)
 ## Publications
 <!--- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en)  --->
 
+`2026`
+Kirkpatrick, BE, Mendenhall, MN, Tafoya, TR, Barnett, JJ, **Santiago Moreno, JG**, Kunrath, CL, Burgess, AE (2026), Severe Hypernatremia revealing undiagnosed nephrogenic DI in an infant with growth galtering. *in preparation*
+
 `2025`
 Hickman, JL\*, **Santiago Moreno, J**\* (co-first), Hughes, G, Sahai, E, Garcia, N, Denman, DJ (2026), Non-uniform spike count noise correlation enhances visual stimulus information at fine time scales in the mouse early visual system. Journal of Neurophysiology
 
-`2026`
 **Santiago Moreno, J**, Garcia, N, Denman, DJ (2025), Separable neural population representations are constructed from mixed single neuron selectivity in the mouse early visual system. _BioRXiv_
-
-Kirkpatrick, BE, Mendenhall, MN, Tafoya, TR, Barnett, JJ, **Santiago Moreno, JG**, Kunrath, CL, Burgess, AE (2026), Severe Hypernatremia revealing undiagnosed nephrogenic DI in an infant with growth galtering. *in preparation*
-
->>
 
 `2022`
 Marciante, AB, Howard,  J, Kelly, MN, **Santiago Moreno, J**, ..., & Mitchell, GS (2022). Dose-dependent phosphorylation of endogenous Tau by intermittent hypoxia in rat brain. _Journal of Applied Physiology_
