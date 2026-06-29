@@ -156,81 +156,85 @@ Spanish (First Language, Fluent)
 <!--- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en)  --->
 
 `2025`
-Hickman, J.L.\*, **Santiago Moreno, J.**\* (co-first), Hughes, G., Sahai, E., Garcia, N., Denman, D. J. (2026), Non-uniform spike count noise correlation enhances visual stimulus information at fine time scales in the mouse early visual system. Journal of Neurophysiology
+Hickman, JL\*, **Santiago Moreno, J**\* (co-first), Hughes, G, Sahai, E, Garcia, N, Denman, DJ (2026), Non-uniform spike count noise correlation enhances visual stimulus information at fine time scales in the mouse early visual system. Journal of Neurophysiology
 
 `2026`
-**Santiago Moreno, J.**, Garcia, N., Denman, D. J. (2025), Separable neural population representations are constructed from mixed single neuron selectivity in the mouse early visual system. _BioRXiv_
+**Santiago Moreno, J**, Garcia, N, Denman, DJ (2025), Separable neural population representations are constructed from mixed single neuron selectivity in the mouse early visual system. _BioRXiv_
+
+Kirkpatrick, BE, Mendenhall, MN, Tafoya, TR, Barnett, JJ, **Santiago Moreno, JG**, Kunrath, CL, Burgess, AE (2026), Severe Hypernatremia revealing undiagnosed nephrogenic DI in an infant with growth galtering. *in preparation*
+
+>>
 
 `2022`
-Marciante, A. B., Howard,  J., Kelly, M. N., **Santiago Moreno, J.**, ..., & Mitchell, G.S. (2022). Dose-dependent phosphorylation of endogenous Tau by intermittent hypoxia in rat brain. _Journal of Applied Physiology_
+Marciante, AB, Howard,  J, Kelly, MN, **Santiago Moreno, J**, ..., & Mitchell, GS (2022). Dose-dependent phosphorylation of endogenous Tau by intermittent hypoxia in rat brain. _Journal of Applied Physiology_
 
 `2019`
-Tekriwal, A., Afshar, N. M., **Santiago-Moreno, J.**, Kuijper, F. M., Kern, D. S., Halpern, C. H., ... & Thompson, J. A. (2019). Neural circuit and clinical insights from intraoperative recordings during deep brain stimulation surgery. _Brain sciences_
+Tekriwal, A, Afshar, NM, **Santiago-Moreno, J**, Kuijper, FM, Kern, DS, Halpern, CH, ... & Thompson, JA (2019). Neural circuit and clinical insights from intraoperative recordings during deep brain stimulation surgery. _Brain sciences_
 
 `2018`
-Leclerc JL, **Santiago-Moreno, J.**, Dang, A., Lampert, A.S., Cruz P. E., Rosario A. M., Golde T. E., Doré S. (2018),  Increased brain hemopexin levels improve outcomes after intracerebral hemorrhage. _J Cereb Blood Flow Metab_.
+Leclerc JL, **Santiago-Moreno, J**, Dang, A, Lampert, AS, Cruz PE, Rosario AM, Golde TE, Doré S (2018),  Increased brain hemopexin levels improve outcomes after intracerebral hemorrhage. _J Cereb Blood Flow Metab_.
 
 `2015`
-Rastogi Vaibhav, **Santiago-Moreno, J.**, Doré S. (2015), Ginseng: a promising neuroprotective strategy in stroke. _Frontiers in Cellular Neuroscience_.
+Rastogi V, **Santiago-Moreno, J**, Doré S (2015), Ginseng: a promising neuroprotective strategy in stroke. _Frontiers in Cellular Neuroscience_.
 
 
 ## Abstracts
 
 `2025`
-**Santiago Moreno, J.**, Denman, D. J. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at CU MSTP Annual Retreat, Aurora, CO, April 2025
+**Santiago Moreno, J**, Denman, DJ. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at CU MSTP Annual Retreat, Aurora, CO, April 2025
 
 `2024`
-**Santiago Moreno, J.**, Denman, D. J. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, October 2024
+**Santiago Moreno, J**, Denman, DJ. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, October 2024
 
-**Santiago Moreno, J.**, Denman, D. J. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at Society for Neuroscience, Chicago, IL, October 2024
+**Santiago Moreno, J**, Denman, DJ. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at Society for Neuroscience, Chicago, IL, October 2024
 
-**Santiago Moreno, J.**, Denman, D. J. Distribution of chromatic tuning in the mouse early visual system. Poster presented at CU MSTP Annual Retreat, Aurora, CO, April 2024
+**Santiago Moreno, J**, Denman, DJ. Distribution of chromatic tuning in the mouse early visual system. Poster presented at CU MSTP Annual Retreat, Aurora, CO, April 2024
 
 `2023`
-**Santiago Moreno, J.**, Denman, D. J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, October 2023
+**Santiago Moreno, J**, Denman, DJ Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, October 2023
 
-**Santiago Moreno, J.**, Denman, D. J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at Association for Research in Vision and Ophthalmology, New Orleans, LA, April 2023
+**Santiago Moreno, J**, Denman, DJ. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at Association for Research in Vision and Ophthalmology, New Orleans, LA, April 2023
 
-**Santiago Moreno, J.**, Denman, D. J. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU MSTP Annual Retreat, Aurora, CO, February 2023
+**Santiago Moreno, J**, Denman, DJ. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU MSTP Annual Retreat, Aurora, CO, February 2023
 
 `2022`
-**Santiago Moreno, J.**, Denman, D. J. Color Representation in the Primary Visual Cortex. Poster presented at the National MD-PhD Student Conference, Copper Mountain, CO, July 2022
+**Santiago Moreno, J**, Denman, DJ. Color Representation in the Primary Visual Cortex. Poster presented at the National MD-PhD Student Conference, Copper Mountain, CO, July 2022
 
-**Santiago Moreno, J.**, Denman, D. J. Color Representation in the Primary Visual Cortex. Poster presented at the 3rd Annual CU MSTP Annual Retreat, Aurora, CO, February 2022
+**Santiago Moreno, J**, Denman, DJ. Color Representation in the Primary Visual Cortex. Poster presented at the 3rd Annual CU MSTP Annual Retreat, Aurora, CO, February 2022
 
 `2021`
-**Santiago Moreno, J.**, Denman, D. J. Color Representation in the Primary Visual Cortex. Poster presented at the Neuroscience Graduate Program Annual Retreat, Granby, CO, October 2021
+**Santiago Moreno, J**, Denman, DJ. Color Representation in the Primary Visual Cortex. Poster presented at the Neuroscience Graduate Program Annual Retreat, Granby, CO, October 2021
 
 `2019`
-Leclerc, J., Lampert, A. S., Phillips, H., Esfandiary, T., Dang, A., **Santiago-Moreno, J.**, Doré, S. Haptoglobin is Present as Zonulin in the Brain and Overexpression Improves Intracerebral Hemorrhage Outcomes. Poster presented at International Stroke Conference, Honolulu, HI, February 2019
+Leclerc, J, Lampert, AS, Phillips, H, Esfandiary, T, Dang, A, **Santiago-Moreno, J**, Doré, S. Haptoglobin is Present as Zonulin in the Brain and Overexpression Improves Intracerebral Hemorrhage Outcomes. Poster presented at International Stroke Conference, Honolulu, HI, February 2019
 
 `2018`
-Gonzalez-Rothi, E. J., Allen, L. A., **Santiago-Moreno, J.**, Ciesla, M. C., Asa, Z. A., Smith, K. N., Tadjalli, A., Perim, R., Santiago, J. V., Holland, A. E., Stefan, K. A. Long-term Delivery of “Low Dose” Repetitive Intermittent Hypoxia is Not Associated with Detectable Pathology. Presented at Experimental Biology, San Diego, CA, April 2018
+Gonzalez-Rothi, EJ, Allen, LA, **Santiago-Moreno, J**, Ciesla, MC, Asa, ZA, Smith, KN, Tadjalli, A, Perim, R, Santiago, JV, Holland, AE, Stefan, KA Long-term Delivery of “Low Dose” Repetitive Intermittent Hypoxia is Not Associated with Detectable Pathology. Presented at Experimental Biology, San Diego, CA, April 2018
 
 `2017`
-Tadjalli, A., Perim, R., Satriotomo, I., **Santiago-Moreno, J.**, Seven, Mitchell, Y., G. S. Poster presented at Respiratory Section Mixer, Experimental Biology, Chicago, IL, April 2017  
+Tadjalli, A, Perim, R, Satriotomo, I, **Santiago-Moreno, J**, Seven, Y, Mitchell, GS. Poster presented at Respiratory Section Mixer, Experimental Biology, Chicago, IL, April 2017  
 
-**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B. J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G. S. Repetitive acute intermittent hypoxia affects lesion volume after cervical spinal injury. Poster presented at Respiratory Section Mixer, Experimental Biology, Chicago, IL, April 2017  
+**Santiago-Moreno, J**, Satriotomo, I, Dougherty, BJ, Springborn, S, Kopp, E, Sullivan, L, Mitchell, GS. Repetitive acute intermittent hypoxia affects lesion volume after cervical spinal injury. Poster presented at Respiratory Section Mixer, Experimental Biology, Chicago, IL, April 2017  
 
-**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B. J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G. S. Repetitive acute intermittent hypoxia affects lesion volume after cervical spinal injury. Poster presented at Neuromuscular Plasticity Symposium, Gainesville, FL, February 2017  
+**Santiago-Moreno, J**, Satriotomo, I, Dougherty, BJ, Springborn, S, Kopp, E, Sullivan, L, Mitchell, GS Repetitive acute intermittent hypoxia affects lesion volume after cervical spinal injury. Poster presented at Neuromuscular Plasticity Symposium, Gainesville, FL, February 2017  
 
 `2016`
-Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Lampert, A., Doré, S. Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves Intracerebral Hemorrhage Outcomes. Poster presented at UF Department of Anesthesiology Celebration of Research, Gainesville, FL, May 2016
+Leclerc, J, Dang, A, **Santiago-Moreno, J**, Lampert, A, Doré, S. Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves Intracerebral Hemorrhage Outcomes. Poster presented at UF Department of Anesthesiology Celebration of Research, Gainesville, FL, May 2016
 
-**Santiago-Moreno, J.**, Satriotomo, I., Dougherty, B. J., Springborn, S., Kopp, E., Sullivan, L., Mitchell, G.S. Repetitive acute intermittent hypoxia alters lesion volume after cervical spinal injury. Poster presented at University of Florida Undergraduate Research Symposium, Gainesville, FL, March 2016
+**Santiago-Moreno, J**, Satriotomo, I, Dougherty, BJ, Springborn, S, Kopp, E, Sullivan, L, Mitchell, GS. Repetitive acute intermittent hypoxia alters lesion volume after cervical spinal injury. Poster presented at University of Florida Undergraduate Research Symposium, Gainesville, FL, March 2016
 
-Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Dore, S. Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves ICH Outcomes. Poster presented at International Stroke Conference, Los Angeles, CA, February 2016
+Leclerc, J, Dang, A, **Santiago-Moreno, J**, Dore, S. Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves ICH Outcomes. Poster presented at International Stroke Conference, Los Angeles, CA, February 2016
 
-Leclerc, J., **Santiago-Moreno, J.**, Dang, A., Dore, S. Specific and Local Overexpression of Hemopexin Improves Anatomical and Functional Outcomes in the Autologous Blood Intracerebral Hemorrhage Model. Poster presented at International Stroke Conference, Los Angeles, CA, February 2016
+Leclerc, J, **Santiago-Moreno, J**, Dang, A, Dore, S. Specific and Local Overexpression of Hemopexin Improves Anatomical and Functional Outcomes in the Autologous Blood Intracerebral Hemorrhage Model. Poster presented at International Stroke Conference, Los Angeles, CA, February 2016
 
 `2015`
-Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at UF College of Medicine Celebration of Research, Gainesville, FL, May 2015
+Leclerc, J, Dang, A, **Santiago-Moreno, J**, Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at UF College of Medicine Celebration of Research, Gainesville, FL, May 2015
 
-Leclerc, J., Dang, A., **Santiago-Moreno, J.**, Doré, S. (2015, February) Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presentation at UF College of Medicine Celebration of Research, Gainesville, FL, February 2015
+Leclerc, J, Dang, A, **Santiago-Moreno, J**, Doré, S. (2015, February) Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presentation at UF College of Medicine Celebration of Research, Gainesville, FL, February 2015
 
-Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
+Leclerc, JL, Dang, A, **Santiago-Moreno, J**, Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
 
-Leclerc, J. L., Dang, A., **Santiago-Moreno, J.**, & Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
+Leclerc, JL., Dang, A, **Santiago-Moreno, J**, & Doré, S. Overexpression of Soluble Hemopexin as a Therapeutic Tool against Intracerebral Hemorrhage. Poster presented at International Stroke Conference, Nashville, TN, February 2015
 
 ## Oral Presentations
 `2025`
