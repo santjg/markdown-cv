@@ -156,7 +156,7 @@ Spanish (First Language, Fluent)
 <!--- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en)  --->
 
 `2026`
-Kirkpatrick, BE, Mendenhall, MN, Tafoya, TR, Barnett, JJ, **Santiago Moreno, JG**, Kunrath, CL, Burgess, AE (2026), Severe Hypernatremia revealing undiagnosed nephrogenic DI in an infant with growth galtering. _in preparation_
+Kirkpatrick, BE, Mendenhall, MN, Tafoya, TR, Barnett, JJ, **Santiago Moreno, JG**, Kunrath, CL, Burgess, AE (2026), Severe hypernatremia revealing undiagnosed nephrogenic DI in an infant with growth faltering. _in preparation_
 
 `2025`
 Hickman, JL\*, **Santiago Moreno, J**\* (co-first), Hughes, G, Sahai, E, Garcia, N, Denman, DJ (2026), Non-uniform spike count noise correlation enhances visual stimulus information at fine time scales in the mouse early visual system. _Journal of Neurophysiology_
