@@ -13,8 +13,7 @@ MD-PhD Student | University of Colorado Anschutz Medical Campus
 
 ## Currently
 
-Eighth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus.  
-Currently doing my clinical clerkship at Denver Health Hospital.
+Ninth Year MD-PhD Student at the University of Colorado Anschutz Medical Campus.
 
 ## Education
 
@@ -129,7 +128,7 @@ Conference Organizer; 36th National MD-PhD Student Conference
 Organizer; CU MSTP 2nd Annual Program Retreat
 
 `2019 - 2020`
-Instructor; Spanish Acquisition Begets Enhanced Service, CUSOM
+Instructor; Spanish Acquisition Begets Enhanced Service (SABES), CUSOM
 
 President; Latino Medical Student Association (LMSA), CUSOM Chapter
 
@@ -156,7 +155,9 @@ Spanish (First Language, Fluent)
 <!--- A list is also available [online](https://scholar.google.com/citations?user=a5zZfbwAAAAJ&hl=en)  --->
 
 `2026`
-Kirkpatrick, BE, Mendenhall, MN, Tafoya, TR, Barnett, JJ, **Santiago Moreno, JG**, Kunrath, CL, Burgess, AE (2026), Severe hypernatremia revealing undiagnosed nephrogenic DI in an infant with growth faltering. _in preparation_
+**Santiago Moreno, J**, Hennessy, T, Ferguson, D, Fink, D (2026), An adult case of embryonic laryngeal rhabdomyosarcoma. _In preparation_
+
+Kirkpatrick, BE, Mendenhall, MN, Tafoya, TR, Barnett, JJ, **Santiago Moreno, JG**, Kunrath, CL, Burgess, AE (2026), Severe hypernatremia revealing undiagnosed nephrogenic DI in an infant with growth faltering. _submitted_
 
 `2025`
 Hickman, JL\*, **Santiago Moreno, J**\* (co-first), Hughes, G, Sahai, E, Garcia, N, Denman, DJ (2026), Non-uniform spike count noise correlation enhances visual stimulus information at fine time scales in the mouse early visual system. _Journal of Neurophysiology_
@@ -182,14 +183,14 @@ Rastogi V, **Santiago-Moreno, J**, Doré S (2015), Ginseng: a promising neuropro
 **Santiago Moreno, J**, Denman, DJ. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at CU MSTP Annual Retreat, Aurora, CO, April 2025
 
 `2024`
-**Santiago Moreno, J**, Denman, DJ. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, October 2024
+**Santiago Moreno, J**, Denman, DJ. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at CU Neuroscience Program Annual Retreat, Estes Park, CO, October 2024
 
 **Santiago Moreno, J**, Denman, DJ. Chromatic information in single cell and population activity in the mouse early visual system. Poster presented at Society for Neuroscience, Chicago, IL, October 2024
 
 **Santiago Moreno, J**, Denman, DJ. Distribution of chromatic tuning in the mouse early visual system. Poster presented at CU MSTP Annual Retreat, Aurora, CO, April 2024
 
 `2023`
-**Santiago Moreno, J**, Denman, DJ Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU Neuroscience Program Annual Retreat, Estes park, CO, October 2023
+**Santiago Moreno, J**, Denman, DJ Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at CU Neuroscience Program Annual Retreat, Estes Park, CO, October 2023
 
 **Santiago Moreno, J**, Denman, DJ. Comparison of high-throughput receptive field mapping approaches for high-density electrophysiology in mice. Poster presented at Association for Research in Vision and Ophthalmology, New Orleans, LA, April 2023
 
@@ -236,46 +237,46 @@ Leclerc, JL., Dang, A, **Santiago-Moreno, J**, & Doré, S. Overexpression of Sol
 
 ## Oral Presentations
 `2025`
-Thesis Defense: "Separable population codes constructed from mixed single cell representations", August 2025
+Thesis Defense: "Separable population codes constructed from mixed single cell representations"; Aurora, CO, August 2025
 
-Conference Talk: "Uniform distribution of spectral tuning in the mouse early visual system", Vision Sciences Society, St. Petersburg, FL, May 2025
+Conference Talk: "Uniform distribution of spectral tuning in the mouse early visual system"; Vision Sciences Society, St. Petersburg, FL, May 2025
 
 `2023`
-Neuroscience Program Thesis Update Talk: "Thalamocortical Integration of Color in Visual Space", December 2023
+Neuroscience Program Thesis Update Talk: "Thalamocortical Integration of Color in Visual Space"; Aurora, CO, December 2023
 
-MSTP Thesis Update Talk: "Thalamocortical Integration of Color in Visual Space", October 2023
+MSTP Thesis Update Talk: "Thalamocortical Integration of Color in Visual Space"; Aurora, CO, October 2023
 
-Professional Development Seminar: Getting into Medical School, June 2023
+Professional Development Seminar: Getting into Medical School; Aurora, CO, June 2023
 
-Professional Development Seminar: What is a Physician Scientist?, June 2023
+Professional Development Seminar: What is a Physician Scientist?; Aurora, CO, June 2023
 
-Neuroscience Program Thesis Update Talk: "Thalamocortical Integration of Color in Visual Space", March 2023
+Neuroscience Program Thesis Update Talk: "Thalamocortical Integration of Color in Visual Space"; Aurora, CO, March 2023
 
 `2022`
-MSTP Seminar Series: "Thalamocortical Integration of Color in Visual Space", September 2022
+MSTP Seminar Series: "Thalamocortical Integration of Color in Visual Space"; Aurora, CO, September 2022
 
 `2021`
-Comprehensive Exam: “Color Information Processing via Communication Subspaces”, March 2021
+Comprehensive Exam: “Color Information Processing via Communication Subspaces”; Aurora, CO, March 2021
 
-CU MSTP 2nd Annual program Retreat: “Interlaminar Dynamics of Color Representation in V1”, February 2021
+CU MSTP 2nd Annual program Retreat: “Interlaminar Dynamics of Color Representation in V1”; Aurora, CO, February 2021
 
 `2020`
-MSTP Seminar Series: “Wavelength Specific Representation of Stimuli in the Mouse Visual Cortex”, September 2020
+MSTP Seminar Series: “Wavelength Specific Representation of Stimuli in the Mouse Visual Cortex”; Aurora, CO, September 2020
 
 `2019`
-MSTP Seminar Series: “Motor Learning Enhancement by Vagus Nerve Stimulation is Mediated by Cholinergic Basal Forebrain Neurons”, August 2019
+MSTP Seminar Series: “Motor Learning Enhancement by Vagus Nerve Stimulation is Mediated by Cholinergic Basal Forebrain Neurons”; Aurora, CO, August 2019
 
 `2018`
-Thesis Defense: “Effects of repetitive acute intermittent hypoxia on lesion volume following cervical spinal cord injury”, March 2018
+Thesis Defense: “Effects of repetitive acute intermittent hypoxia on lesion volume following cervical spinal cord injury”; Gainesville, FL, March 2018
 
 `2017`
-Respiratory Section Mixer, Experimental Biology: “Six months of repetitive acute intermittent hypoxia drives serotonergic axon growth through a spinal injury”, April 2017
+Respiratory Section Mixer, Experimental Biology: “Six months of repetitive acute intermittent hypoxia drives serotonergic axon growth through a spinal injury”; Chicago, IL, April 2017
 
 `2016`
-UF Department of Anesthesiology Celebration of Research: “Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves Intracerebral Hemorrhage Outcomes”, May 2016
+UF Department of Anesthesiology Celebration of Research: “Modulation of Neuroinflammation by Haptoglobin Reduces Oxidative Stress and Improves Intracerebral Hemorrhage Outcomes”; Gainesville, FL  May 2016
 
 
 
-### Last updated: March 2026
+### Last updated: August 2026
 
 
